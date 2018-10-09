@@ -53,11 +53,11 @@
     <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Layouts\Sharepoint.Samples.Auth.Context.Farm\Demo.aspx.cs">
+    <Compile Include="Layouts\Auth.SPContext\Demo.aspx.cs">
       <DependentUpon>Demo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Layouts\Sharepoint.Samples.Auth.Context.Farm\Demo.aspx.designer.cs">
+    <Compile Include="Layouts\Auth.SPContext\Demo.aspx.designer.cs">
       <DependentUpon>Demo.aspx.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -78,7 +78,7 @@
     <Folder Include="Features\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Layouts\Sharepoint.Samples.Auth.Context.Farm\Demo.aspx" />
+    <Content Include="Layouts\Auth.SPContext\Demo.aspx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
