@@ -1,4 +1,4 @@
-# sharepoint_samples
+# Sharepoint (2016) Samples
 
 Misc sharepoint-related sample code and snippets.
 
