@@ -2,6 +2,6 @@
 
 Misc sharepoint-related sample code and snippets.
 
-## Auth
+## [Auth](auth/spcontext/readme.md)
 
 Samples related to sharepoint authentication scenarios.
