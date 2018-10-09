@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sharepoint.Samples.Auth.Api")]
+[assembly: AssemblyTitle("Sharepoint.Samples.Auth.SPContext.Api")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Sharepoint.Samples.Auth.Api")]
+[assembly: AssemblyProduct("Sharepoint.Samples.Auth.SPContext.Api")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("86007e5d-a20a-4ec1-8299-b3828704da69")]
+[assembly: Guid("64799b92-3abd-4bd7-9e3d-c4807523332d")]
 
 // Version information for an assembly consists of the following four values:
 //

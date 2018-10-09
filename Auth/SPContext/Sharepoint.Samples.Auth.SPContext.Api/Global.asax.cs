@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
 
-namespace Sharepoint.Samples.Auth.Api
+namespace Sharepoint.Samples.Auth.SPContext.Api
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
