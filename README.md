@@ -2,6 +2,6 @@
 
 Misc sharepoint-related sample code and snippets.
 
-## [Auth](auth/spcontext/readme.md)
+## [Auth](https://github.com/ryhled/sharepoint_samples/tree/master/Auth/SPContext)
 
 Samples related to sharepoint authentication scenarios.
