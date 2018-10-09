@@ -1,0 +1,1 @@
+https://github.com/SharePoint/PnP/tree/master/Samples/Core.Services.Authenticate

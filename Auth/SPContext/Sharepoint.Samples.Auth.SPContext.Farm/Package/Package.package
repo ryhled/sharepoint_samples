@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="52196850-83fd-42b5-bcc9-9b82a6da60e7" solutionId="52196850-83fd-42b5-bcc9-9b82a6da60e7" resetWebServer="false" sharePointProductVersion="16.0" name="Sharepoint.Samples.Auth.Context.Farm" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="fa848cbe-4d66-400f-983d-4a7027d90f7a" />
+  </projectItems>
+</package>
